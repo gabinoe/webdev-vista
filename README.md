@@ -1,6 +1,6 @@
 # WebDevVista
 
-WebDevVista is a single-page web application designed as a portfolio for showcasing a web developer's skills and projects. The application is built using React, providing an interactive and seamless user experience. It allows visitors to explore the developer's work, learn more about their background, and easily get in touch.
+WebDevVista is a single-page web application designed as a portfolio for showcasing a web developer's skills and projects. The application is built using React, providing an interactive user experience. It allows visitors to explore the developer's work, learn more about their background, and easily get in touch.
 
 ## Features
 
@@ -36,7 +36,7 @@ WebDevVista is a single-page web application designed as a portfolio for showcas
 
 ## Contributing
 
-If you wish to contribute to WebDevVista, you're more than welcome to do so! Please follow the standard GitHub workflow:
+If you wish to contribute to WebDevVista, you're more than welcome to do so, follow the standard GitHub workflow:
 1. Fork the repository.
 2. Create a new branch for your changes.
 3. Make your modifications and commit the changes.
@@ -49,10 +49,9 @@ WebDevVista is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or feedback related to the application, please reach out to the developer:
+For any inquiries or feedback related to the application, please reach out:
 
-- Email: webdevvista@example.com
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- GitHub: [https://github.com/gabinoe]
 
 ---
 

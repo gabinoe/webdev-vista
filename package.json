@@ -1,4 +1,4 @@
-"homepage": "https://your-github-username.github.io/web-developer-portfolio",
+"homepage": "https://github.com/gabinoe/webdev-vista",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
