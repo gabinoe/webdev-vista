@@ -51,9 +51,7 @@ WebDevVista is open-source and available under the [MIT License](LICENSE).
 
 For any inquiries or feedback related to the application, please reach out:
 
-- GitHub: [https://github.com/gabinoe]
+## LINKS
 
----
-
-Thank you for considering WebDevVista! We hope you find it useful in showcasing your web development skills and projects. Happy coding!
-
+- repo: https://github.com/gabinoe/webdev-vista
+- pages: https://gabinoe.github.io/webdev-vista
